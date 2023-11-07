@@ -1,0 +1,20 @@
+#title {
+  color: rgb(193, 0, 0);
+  text-align: center;
+  margin-block: 1rem;
+}
+
+.countersBox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-block: 1rem;
+}
+
+.addBtn {
+  margin: 0 auto;
+  display: block;
+  background-color: rgb(9, 74, 178);
+  color: white;
+  padding: 0.3rem 2rem !important;
+}
